@@ -1,5 +1,6 @@
 == README
 
+Rails application using tutorial from http://www.railstutorial.org/book/beginning#uid36
 This README would normally document whatever steps are necessary to get the
 application up and running.
 
